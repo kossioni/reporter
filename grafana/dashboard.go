@@ -145,7 +145,7 @@ func (p Panel) Width() float64 {
 }
 
 func (p Panel) Height() float64 {
-	return float64(p.GridPos.H) * 0.07
+	return float64(p.GridPos.H) * 0.04
 }
 
 func (p Panel) Is(t PanelType) bool {
