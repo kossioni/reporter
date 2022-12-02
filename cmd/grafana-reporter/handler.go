@@ -27,8 +27,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/IzakMarais/reporter/grafana"
-	"github.com/IzakMarais/reporter/report"
+	"github.com/kossioni/reporter/grafana"
+	"github.com/kossioni/reporter/report"
 	"github.com/gorilla/mux"
 )
 
